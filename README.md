@@ -1,5 +1,6 @@
 # automated_attendence_system
-# This project work is related to research paper upder publication with IEEE 
+#Add a image reposetory and the single immage of the person with unique identifier to run the project
+# This project work is related to research paper under publication with IEEE 
 # The project is completed with active contributions from
 # Harshit Kesharwani https://www.linkedin.com/in/harshitkesharwani/
 # Tamoshree Mallick https://www.linkedin.com/in/tamoshree-mallick-642033219/
